@@ -77,12 +77,12 @@ a.control_prev, a.control_next {
   cursor: pointer;
 }
 
-/*a.control_prev:hover, a.control_next:hover {
+a.control_prev:hover, a.control_next:hover {
   opacity: 1;
   -webkit-transition: all 0.2s ease;
 }
 
-a.control_prev {
+/*a.control_prev {
   border-radius: 0 2px 2px 0;
 }
 
