@@ -47,7 +47,7 @@ h1 {
   list-style: none;
 }
 
-/*#slider ul li {
+#slider ul li {
   position: relative;
   display: block;
   float: left;
@@ -60,7 +60,7 @@ h1 {
   line-height: 300px;
 }
 
-a.control_prev, a.control_next {
+/*a.control_prev, a.control_next {
   position: absolute;
   top: 40%;
   z-index: 999;
