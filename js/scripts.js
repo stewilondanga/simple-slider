@@ -25,9 +25,12 @@ jQuery(document).ready(function($) {
         height: slideHeight
       });
 
-      /*            	$('#slider ul').css({ width: sliderUlWidth, marginLeft: - slideWidth });
+      $('#slider ul').css({
+        width: sliderUlWidth,
+        marginLeft: -slideWidth
+      });
 
-                      $('#slider ul li:last-child').prependTo('#slider ul');
+      /*                $('#slider ul li:last-child').prependTo('#slider ul');
 
                       function moveLeft() {
                           $('#slider ul').animate({
