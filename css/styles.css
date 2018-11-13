@@ -22,15 +22,11 @@ html, body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-
-
-
-
-h1 {
+/*h1 {
   color: #fff;
   text-align: center;
   font-weight: 300;
