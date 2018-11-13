@@ -5,6 +5,12 @@ html {
   color: #2a2a2a;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans';
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -31,11 +37,6 @@ html {
 
 
 
-html, body {
-  margin: 0;
-  padding: 0;
-  font-family: 'Open Sans';
-}
 
 h1 {
   color: #fff;
