@@ -10,12 +10,12 @@ var navigate = (function() {
 jQuery(document).ready(function($) {
 
       $('#checkbox').change(function() {
-            /*          setInterval(function () {
-                          moveRight();
-                      }, 3000);
-                    });
+        setInterval(function() {
+          moveRight();
+        }, 3000);
+      });
 
-                  	var slideCount = $('#slider ul li').length;
+      /*            	var slideCount = $('#slider ul li').length;
                   	var slideWidth = $('#slider ul li').width();
                   	var slideHeight = $('#slider ul li').height();
                   	var sliderUlWidth = slideCount * slideWidth;
