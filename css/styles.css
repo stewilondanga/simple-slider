@@ -26,13 +26,13 @@ html, body {
   height: 1.5em;
 }
 
-/*h1 {
+h1 {
   color: #fff;
   text-align: center;
   font-weight: 300;
 }
 
-#slider {
+/*#slider {
   position: relative;
   overflow: hidden;
   margin: 20px auto 0 auto;
