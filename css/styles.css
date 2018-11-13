@@ -60,7 +60,7 @@ h1 {
   line-height: 300px;
 }
 
-/*a.control_prev, a.control_next {
+a.control_prev, a.control_next {
   position: absolute;
   top: 40%;
   z-index: 999;
@@ -77,7 +77,7 @@ h1 {
   cursor: pointer;
 }
 
-a.control_prev:hover, a.control_next:hover {
+/*a.control_prev:hover, a.control_next:hover {
   opacity: 1;
   -webkit-transition: all 0.2s ease;
 }
