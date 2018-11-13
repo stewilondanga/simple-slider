@@ -30,9 +30,9 @@ jQuery(document).ready(function($) {
         marginLeft: -slideWidth
       });
 
-      /*                $('#slider ul li:last-child').prependTo('#slider ul');
+      $('#slider ul li:last-child').prependTo('#slider ul');
 
-                      function moveLeft() {
+      /*                function moveLeft() {
                           $('#slider ul').animate({
                               left: + slideWidth
                           }, 200, function () {
