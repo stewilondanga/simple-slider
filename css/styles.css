@@ -1,4 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+html {
+  border-top: 5px solid #fff;
+  background: #58DDAF;
+  color: #2a2a2a;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -24,11 +30,6 @@
 
 
 
-html {
-  border-top: 5px solid #fff;
-  background: #58DDAF;
-  color: #2a2a2a;
-}
 
 html, body {
   margin: 0;
