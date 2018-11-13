@@ -50,11 +50,11 @@ jQuery(document).ready(function($) {
         });
       };
 
-      /*                                $('a.control_prev').click(function () {
-                                          moveLeft();
-                                      });
+      $('a.control_prev').click(function() {
+        moveLeft();
+      });
 
-                                      $('a.control_next').click(function () {
+      /*                                $('a.control_next').click(function () {
                                           moveRight();
                                       });
 
