@@ -82,11 +82,11 @@ a.control_prev:hover, a.control_next:hover {
   -webkit-transition: all 0.2s ease;
 }
 
-/*a.control_prev {
+a.control_prev {
   border-radius: 0 2px 2px 0;
 }
 
-a.control_next {
+/*a.control_next {
   right: 0;
   border-radius: 2px 0 0 2px;
 }
